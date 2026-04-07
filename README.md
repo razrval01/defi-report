@@ -1,24 +1,30 @@
-# Aave Analysis Overview
+# DeFi Research Reports
 
-## Project Overview
-Aave is a decentralized finance protocol that allows users to lend and borrow a variety of cryptocurrencies. It offers significant benefits, including flexibility in interest rates and the ability to earn on deposits. Its innovative features are set against a backdrop of growing interest in decentralized finance.
+Professional-grade research reports on DeFi protocols and crypto markets.
 
-## AAVE Report Contents
-The AAVE report provides an in-depth look at the protocol’s performance, user engagement metrics, and market trends. It also includes forecasts based on current user behavior and market dynamics.
+## Reports
 
-## Why the Analysis is Meta
-This analysis stands out due to its total alignment with the ever-evolving DeFi ecosystem. It captures the essential metrics that reflect real-world user interactions and provides insights that are critical for potential investors.
+### 1. Aave V3/V4 — Full Protocol Analysis (April 2026)
+Deep dive into Aave protocol mechanics, competitive landscape, V4 launch, governance risks, and valuation analysis.
 
-## Key Highlights Table
-| Metric               | Value       |
-|---------------------|-------------|
-| Total Lended        | $X Billion  |
-| Total Borrowed      | $Y Billion  |
-| Active Users        | Z          |
-| Market Cap          | $M Billion  |
+**Key findings:**
+- $75B peak TVL in 2025, 60-62% DeFi lending market share
+- $141.8M net revenue in 2025 (+57% YoY)
+- AAVE trading at 0.49x revenue — significant discount vs Coinbase at 6-8x
+- V4 launched March 30, 2026 with hub-and-spoke architecture
+- Governance crisis (BGD Labs departure) created price dislocation
 
-## Investment Perspective
-Investing in Aave presents opportunities to leverage its robust framework for loan distribution and asset management. Given the rising trend of decentralization in finance, Aave’s unique features and strong market position render it a promising investment.
+[Read Report →](AAVE_ANALYSIS_REPORT.md)
 
-## Quality Standards
-The analysis meets high standards of accuracy, comprehensiveness, and relevance. It is designed to be both informative for novice investors and detailed enough for seasoned industry professionals.
+## Methodology
+
+Reports are based on on-chain data (DeFiLlama, Token Terminal), protocol documentation, and market analysis. All data is sourced and timestamped.
+
+## Author
+
+**razrval01** — DeFi researcher and Python developer.
+- 3+ years crypto trading experience
+- Projects: Aave Rate Monitor, OKX Splash Bot
+- GitHub: [razrval01](https://github.com/razrval01)
+
+*Reports are for informational purposes only and do not constitute financial advice.*
